@@ -5,7 +5,7 @@ This project is part of the Programming in C course. It demonstrates fundamental
 
 ---
 
-## Question 1: C Program Lifecycle and Compilation
+## Sub-Project 1: C Program Lifecycle and Compilation
 
 This section includes a simple C program that performs a basic calculation and prints formatted output. It is used to demonstrate how C programs are compiled and executed.
 
@@ -17,7 +17,7 @@ This section includes a simple C program that performs a basic calculation and p
 
 ---
 
-## Question 2: Control Flow and Repetition
+## Sub-Project 2: Control Flow and Repetition
 
 This section contains a menu-driven program that allows users to interact with different options using loops and conditional statements.
 
@@ -32,7 +32,7 @@ To demonstrate how control flow structures are used to build interactive console
 
 ---
 
-## Question 3: Functions and Recursion
+## Sub-Project 3: Functions and Recursion
 
 This program demonstrates modular programming using multiple functions and includes a recursive function for calculating factorial.
 
@@ -49,7 +49,7 @@ This program demonstrates modular programming using multiple functions and inclu
 
 ---
 
-## Question 4: Embedded Systems – Smart Distance Guidance System
+## Sub-Project 4: Embedded Systems – Smart Distance Guidance System
 
 ### Project Overview
 
