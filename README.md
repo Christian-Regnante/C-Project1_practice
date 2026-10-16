@@ -1,4 +1,4 @@
-# C Programming Project 1 – Assignment
+# C Programming Project 1
 
 ## Overview
 This project is part of the Programming in C course. It demonstrates fundamental programming concepts including compilation, control flow, functions, recursion, and embedded systems design. The project is divided into four main questions, each focusing on a different core concept in C programming.
